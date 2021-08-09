@@ -17,3 +17,12 @@ Note: The computer is not one of the players, the computer only determines who w
 Sample input and output (input typed by the user is shown in green text) for two different runs, the first showing a winner, the second showing a tie
 
 ![image](https://user-images.githubusercontent.com/86201781/128753212-2c92d56c-256f-4e53-b503-c7dd403b134c.png)
+
+## How to use
+
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Projec_rock_paper.py;
+- The program will open a command console which will ask you to input either rock, paper, scissors, lizard or rock for player 1 and then for player 2.
