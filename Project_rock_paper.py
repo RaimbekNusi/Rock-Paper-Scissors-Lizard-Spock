@@ -1,4 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
 player1 = input("Player 1 chooses their move: ")
 player2 = input("Player 1 chooses their move: ")
 def rock_paper_scissors_lizard_spock():
